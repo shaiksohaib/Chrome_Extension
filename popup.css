@@ -1,0 +1,16 @@
+body {
+    width: 500px;
+    background: #fafacf;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+.container div {
+  
+    margin: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.container.h2 {text-align: center;}
